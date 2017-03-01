@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CountryPhone</string>
+
+    <string name="phone">Phone Number</string>
+    <string name="validate">Validar</string>
+    <string name="invalid_phone_number">Ingrese un número válido</string>
+    <string name="valid_phone_number">Número válido</string>
+
+</resources>

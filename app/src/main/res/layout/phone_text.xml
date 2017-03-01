@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <android.support.v7.widget.AppCompatSpinner
+        android:id="@+id/spCountry"
+        android:layout_width="@dimen/spinner_width"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/margin_large"
+        android:dropDownWidth="@dimen/spinner_height"
+        android:popupBackground="@color/white"
+        />
+
+    <android.support.v7.widget.AppCompatEditText
+        android:id="@+id/txtNumber"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:inputType="phone"
+        style="@style/TextViewGray"/>
+
+</merge>
